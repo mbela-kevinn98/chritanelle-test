@@ -1,0 +1,72 @@
+body{
+	font-family: georgia;
+	margin: 0px;
+}
+
+.htt{
+text-decoration: underline;
+box-shadow: 6px 6px 8px black;
+}
+
+.iden{
+	margin-top: 50px;
+
+
+}
+.bloc{
+	background-color: #000000;
+}
+
+
+.gauche{
+	float:left;
+	width:100px;
+	height:100%;
+	border-right:1px ;
+	padding:20px;
+	margin-top:10px;
+}
+
+.droite{
+	margin-top:40px;
+	padding:20px;
+	margin-left:300px;
+}
+#ccl{
+	border: 3px blue solid;
+	border-radius: 20px;
+}
+
+.eco{
+	color: red;
+}
+.mo{
+	color: purple;
+	box-shadow: : 6px 6px 8px purple;
+	border: 5px purple solid;
+	height: 55px;
+	width: 250px;
+	border-radius: 20px;
+	margin-left: 400px;
+}
+
+.vivi{
+	float:left;
+	width:700px;
+	height:100%;
+	border-right:1px ;
+	padding:20px;
+	margin-top:10px;
+}
+
+.text{
+	margin-top:20px;
+	width:255px;
+	height:100%;
+	padding:20px;
+	margin-left:740px;
+}
+
+.reseau{
+	
+}
